@@ -1,0 +1,122 @@
+#header { background-color: #ffffff }
+body {
+    background: url("http://b.thumbs.redditmedia.com/rYU9nAgHoLL0ILQg.png") no-repeat fixed center center;
+    opacity: 1;
+}
+.link {
+    background-color: rgba(256,256,256,.5);
+    width: 75%;
+    border-radius: 10px;
+}
+#siteTable a.title {
+    color: #00A0A0;
+    font-weight: bold;
+}
+#siteTable a.title:visited {
+    color: #BB00BB;
+    font-weight: bold;
+}
+a:link { color: #00a0a0 }
+a:visited { color: #bb00bb }
+a:hover { color: #aa00aa }
+a:active { color: #00a0a0 }
+.side {
+    background-color: rgba(256,256,256,.5);
+    color: black;
+    border-radius: 20px;
+    width: 22%;
+}
+.sidebox .nub {
+    background-color: rgba(256,256,256,.5);
+    border-radius: 10px;
+}
+body .comment {
+    background-color: rgba(256,256,256,.4);
+    width: 72%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #aa00aa;
+    padding: 10px;
+}
+body .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00aaaa;
+    padding: 10px;
+}
+body .comment .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #aa00aa;
+    padding: 10px;
+}
+body .comment .comment .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00aaaa;
+    padding: 10px;
+}
+body .comment .comment .comment .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #aa00aa;
+    padding: 10px;
+}
+body .comment .comment .comment .comment .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00aaaa;
+    padding: 10px;
+}
+body .comment .comment .comment .comment .comment .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #aa00aa;
+    padding: 10px;
+}
+body .comment .comment .comment .comment .comment .comment .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00aaaa;
+    padding: 10px;
+}
+body .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #aa00aa;
+    padding: 10px;
+}
+body .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+    background-color: rgba(256,256,256,.1);
+    width: 95%;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00aaaa;
+    padding: 10px;
+}
